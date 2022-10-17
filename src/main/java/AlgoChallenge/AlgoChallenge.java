@@ -17,6 +17,6 @@ public class AlgoChallenge {
         }
 
         System.out.println(index2 == array2.length ? "In Sequence" : "Not in sequence");
-
+        System.out.println("Git Check");
     }
 }
