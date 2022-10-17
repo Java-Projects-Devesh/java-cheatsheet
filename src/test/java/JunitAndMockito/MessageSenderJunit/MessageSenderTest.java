@@ -1,4 +1,4 @@
-package JunitAndMockito.CalculatorJunit.MessageSenderJunit;
+package JunitAndMockito.MessageSenderJunit;
 
 import JunitAndMockito.MessageSenderJunit.MessageSender;
 import JunitAndMockito.MessageSenderJunit.MessagingService;
